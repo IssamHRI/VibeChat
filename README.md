@@ -1,4 +1,4 @@
-<h1 align="center">Realtime Chapp-App (VibeChat)</h1>
+<h1 align="center">Realtime Chapp App (VibeChat)</h1>
 
 ![Demo App](/frontend/public/vibechat.png)
 
